@@ -17,9 +17,9 @@ It works even in **fullscreen games**, allowing you to override in-game color se
 
 ## 🔗 Links
 
-- **YouTube:** [TetteyKn](https://youtube.com/@TetteyKn)
-- **Discord:** Heaven
-- **GitHub:** [TetteyKn](https://github.com/TetteyKn)
+- **YouTube:** [TetteyKn](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
+- **Discord:** [Join Heaven](https://discord.com/invite/jRnaeTJ)
+- **GitHub:** [TetteyKn](https://github.com/tetteykn/TetteyGamma)
 
 ---
 
