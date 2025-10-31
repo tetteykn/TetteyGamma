@@ -11,7 +11,7 @@ It works even in **fullscreen games**, allowing you to override in-game color se
 - Apply settings to **all monitors** at once.
 - Compatible with **fullscreen** and **borderless** games.
 - Clean and lightweight **Win32 interface**.
-- Completely **free and open source** under the **Boost Software License 1.0**.
+- Completely **free to use** for personal and non-commercial purposes.
 
 ---
 
@@ -25,4 +25,7 @@ It works even in **fullscreen games**, allowing you to override in-game color se
 
 ## ⚖️ License
 
-This project is licensed under the **Boost Software License 1.0** – see the [LICENSE](LICENSE) file for details.
+This software is **free to use** but **modification, redistribution, or selling** of the program or its source code  
+is **not permitted** without explicit permission from the author.
+
+Copyright © 2025 **TetteyKn**. All rights reserved.
