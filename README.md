@@ -1,31 +1,42 @@
 # TetteyGamma
 
-TetteyGamma is a simple and powerful Windows tool that provides **advanced gamma, brightness, and contrast control** for your monitors.  
-It works even in **fullscreen games**, allowing you to override in-game color settings easily.
+**TetteyGamma** is a powerful Windows utility that provides **advanced gamma, brightness, and contrast control** for your monitors.  
+It works seamlessly even in **fullscreen games**, allowing you to override in-game color settings with precision.
 
 ---
 
 ## 🖥️ Features
 
-- Adjust **gamma, brightness, and contrast** per monitor.
-- Apply settings to **all monitors** at once.
-- Compatible with **fullscreen** and **borderless** games.
-- Clean and lightweight **Win32 interface**.
-- Completely **free to use** for personal and non-commercial purposes.
+- Adjust **gamma, brightness, and contrast** per monitor  
+- Apply settings to **all monitors** at once  
+- Compatible with **fullscreen** and **borderless** games  
+- Clean and lightweight **Win32 interface**  
+- Designed for **performance and accuracy**
+
+---
+
+## 💳 Pricing & Trial
+
+TetteyGamma is a **paid software**.  
+A **3-day free trial** is available to test all features before purchasing.
 
 ---
 
 ## 🔗 Links
 
-- **YouTube:** [TetteyKn](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
-- **Discord:** [Join Heaven](https://discord.com/invite/jRnaeTJ)
-- **GitHub:** [TetteyKn](https://github.com/tetteykn/TetteyGamma)
+- **YouTube:** https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg  
+- **Discord:** https://discord.com/invite/jRnaeTJ  
+- **GitHub:** https://github.com/tetteykn/TetteyGamma
 
 ---
 
 ## ⚖️ License
 
-This software is **free to use** but **modification, redistribution, or selling** of the program or its source code  
-is **not permitted** without explicit permission from the author.
+This software is **not free**.
 
-Copyright © 2025 **TetteyKn**. All rights reserved.
+- Use is allowed only through an official license  
+- **Modification, redistribution, or resale** of the software or its source code  
+  is **strictly prohibited** without explicit permission from the author
+
+Copyright © 2025 **TetteyKn**  
+All rights reserved.
